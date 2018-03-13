@@ -1,4 +1,4 @@
-
+# 01
 def game(P1, P2):
 	if P1 == 'Piedra' and P2 == 'Piedra':
 		return "empate"
